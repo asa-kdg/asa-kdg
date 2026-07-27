@@ -15,6 +15,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
 </p>
+
+## スキル
+
+![My Skills](https://skillicons.dev/icons?i=python,mysql,java,html,css,js,figma)
 ## 自己紹介
 
 データサイエンティストを目指して学習しています。  
