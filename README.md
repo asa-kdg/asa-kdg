@@ -7,7 +7,7 @@
 
 ## スキル
 
-![My Skills](https://skillicons.dev/icons?i=python,mysql,java,html,css,js,figma)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,java,html,css,js,figma)](https://skillicons.dev)
 
 ## 自己紹介
 
